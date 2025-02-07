@@ -1,16 +1,14 @@
-# weather_app
+🌦️ WeatherApp – Your Simple & Fast Weather Companion
+WeatherApp is a lightweight Flutter application that provides real-time weather updates for any city worldwide. With a clean and minimalistic UI, it delivers essential weather details instantly.
 
-A new Flutter project.
+✨ Features
+✅ Real-time Weather Updates – Get live weather data using API integration.
+✅ Global City Support – Check the weather for any city across the world.
+✅ Temperature Conversion – View temperatures in both Celsius and Fahrenheit.
+✅ Weather Details – Displays temperature, humidity, wind speed, and atmospheric pressure.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 How It Works
+Select a city from the drop-down menu.
+The app fetches real-time weather data using an API.
+Instantly displays temperature, weather conditions, and other details.
+Toggle between Celsius and Fahrenheit for temperature units.
